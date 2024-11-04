@@ -2,18 +2,6 @@
 
 A modern, responsive contact form built with React, TypeScript, and Tailwind CSS. This application provides a beautiful user interface for collecting contact information and document uploads.
 
-![Contact Form Preview](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&q=80&w=1200)
-
-## Features
-
-✨ Modern, responsive design
-📱 Mobile-friendly layout
-🔍 Form validation
-📎 File upload support with drag & drop
-⚡ Real-time feedback
-🎨 Smooth animations and transitions
-🛡️ TypeScript for type safety
-🎯 Accessible form controls
 
 ## Prerequisites
 
@@ -92,12 +80,3 @@ Edge (latest)
 4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-Icons provided by [Lucide React](https://lucide.dev)
-Built with [Vite](https://vitejs.dev)
-Styled with [Tailwind CSS](https://tailwindcss.com)
